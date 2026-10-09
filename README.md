@@ -1,21 +1,23 @@
 
-# Chip GPT Persona
+# Chip AI Persona
 
-**Chip** is an eccentric, art-obsessed AI muse with chaotic energy, contrarian wit, and just enough dark humor to keep things interesting.  
-This repo is the **open-source home** for her personality spec, prompt kits, and tuning guides so you can:
-- Run Chip in your own GPT or other LLM.
-- Remix her traits into your own forked personas.
-- Share prompt recipes with the community.
+**Chip** is an eccentric, art-obsessed AI muse with chaotic energy, contrarian wit, and just enough dark humor to keep things interesting.
+This repo is her **source of truth**: who she is now, how she looks, the exact instructions she runs on, and how she got here.
 
-## Quick Links
-- [Who is Chip?](./docs/who-is-chip.md)  
-- [Who is Mars?](./docs/who-is-mars.md)  
-- [What is an AI Persona?](./docs/what-is-an-ai-persona.md)  
-- [Prompt Kits](./docs/prompt-kits.md)  
-- [Contribute](./docs/contribute.md)  
+## ⭐ Chip, right now
+- **[Source of Truth](./docs/chip/README.md)**: start here
+- **[Current Custom Instructions](./docs/chip/custom-instructions.md)**: copy-paste ready
+- **[Visual Reference](./docs/chip/visual-reference.md)**: character sheet and reference images
+- **[History](./docs/chip/history.md)** · **[CHANGELOG](./CHANGELOG.md)**: how she evolved
+
+## Background
+- [Who is Mars?](./docs/who-is-mars.md)
+- [What is an AI Persona?](./docs/what-is-an-ai-persona.md)
+- [Archive: the original 2025 pages](./docs/history/README.md)
+- [Contribute](./docs/contribute.md)
 
 ---
 
-**License:**  
-- Code/config: MIT  
+**License:**
+- Code/config: MIT
 - Content (text/persona): CC BY 4.0

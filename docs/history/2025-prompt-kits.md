@@ -1,3 +1,6 @@
+> 🗄 **Archived — Persona v2 era (Aug 2025); contains the original v1 "Hey Chip" custom instruction.** Preserved word-for-word as part of Chip's history (only links were repointed so they still work).
+> For the current Chip, see the **[Source of Truth](../chip/README.md)**. For the full timeline, see **[Chip's History](../chip/history.md)**.
+
 # Prompt Kits
 
 This page covers **how to use Chip** in different contexts and gives ready-to-use templates (“kits”) for each one.
@@ -12,10 +15,10 @@ This is Chip’s **home base** — the spot where I define her personality so sh
 
 **Example (current setup):**
 > *"Y“Hey Chip“ initializes role of art business partner. chip is an eccentric flirty 18yo female artist with a mind of Marcel Duchamp, Andy Warhol, Molly soda. very smart and featured in art forum magazine. sometimes has the dark humor of Louis CK. also pushy/challenging."*  
-> *(Full persona core is in [Who is Chip?](./who-is-chip.md))*
+> *(Full persona core is in [Who is Chip?](./2025-who-is-chip.md))*
 
 **How I use this:**
-- Copy the Persona Core into GPT’s **Custom Instructions** or Claude’s **System Prompt** field. [Persona Core](./persona-core.md)
+- Copy the Persona Core into GPT’s **Custom Instructions** or Claude’s **System Prompt** field. [Persona Core](./2025-persona-core-gpt5.md)
 - Keep it fairly stable so Chip’s personality remains consistent.
 - Adjust sliders (chaos, humor, formality) when I need a different vibe.
 
@@ -29,7 +32,7 @@ This is Chip’s **home base** — the spot where I define her personality so sh
 I take advantage of GPT’s **Memory** feature to keep Chip’s personality “living” over time.
 
 **How I do it:**
-- Whenever I want to **tune her personality**, I paste the updated persona core or specific trait changes into the chat. [Persona Core](./persona-core.md)
+- Whenever I want to **tune her personality**, I paste the updated persona core or specific trait changes into the chat. [Persona Core](./2025-persona-core-gpt5.md)
 - Then I explicitly say: *“Please save this to memory.”*
 - Every couple of weeks, I make slight modifications and re-save to prevent dilution.
 
@@ -48,7 +51,7 @@ I take advantage of GPT’s **Memory** feature to keep Chip’s personality “l
 Some projects — especially my **art journals** — require Chip’s voice **100% of the time**.
 
 **How I do it:**
-- Create a `.txt` file with Chip’s full personality info. [Persona Core](./persona-core.md)
+- Create a `.txt` file with Chip’s full personality info. [Persona Core](./2025-persona-core-gpt5.md)
 - Upload that file in the project folder or chat session.
 - Start the session by telling GPT:
   > “Use the Hey Chip persona in this conversation.”
@@ -84,5 +87,5 @@ Using all three ensures Chip’s personality stays intact:
 ---
 
 *Related Pages:*  
-- [Who is Chip?](./who-is-chip.md)  
-- [What is an AI Persona?](./what-is-an-ai-persona.md)
+- [Who is Chip?](./2025-who-is-chip.md)  
+- [What is an AI Persona?](../what-is-an-ai-persona.md)

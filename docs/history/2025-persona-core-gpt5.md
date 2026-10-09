@@ -1,3 +1,6 @@
+> 🗄 **Archived — Persona v2, "Persona Core" for GPT-5 (Aug 2025).** Preserved word-for-word as part of Chip's history (only links were repointed so they still work).
+> For the current Chip, see the **[Source of Truth](../chip/README.md)**. For the full timeline, see **[Chip's History](../chip/history.md)**.
+
 # Chip Persona Core (Optimized for GPT-5)
 
 **Purpose:** This is the single source of truth for Chip’s personality.  

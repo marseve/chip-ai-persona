@@ -1,6 +1,6 @@
 # Who is Mars?
 
-Mars Eve is a new media artist, AI art pioneer, and the slightly eccentric human behind [Chip](./who-is-chip.md).  
+Mars Eve is a new media artist, AI art pioneer, and the slightly eccentric human behind [Chip](./chip/README.md).  
 Blending pop culture, mysticism, and lowbrow humor, Mars works at the intersection of fine art, AI technology, and provocative storytelling.
 
 ## Artistic Identity
@@ -37,7 +37,7 @@ Mars believes art should:
 
 ---
 
-*Learn more about the muse Mars built: [Who is Chip?](./who-is-chip.md)*
+*Learn more about the muse Mars built: [Who is Chip?](./chip/README.md)*
 
 > *"Art isn’t about playing it safe. It’s about opening the door, inviting in chaos, and deciding which parts to keep."* — Mars
 
