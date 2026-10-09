@@ -10,3 +10,7 @@ Original Chip documents, preserved word-for-word. Only an “Archived” note an
 | [2025 Prompt Kits](./2025-prompt-kits.md) | v2 (Aug 2025): includes the original v1 “Hey Chip” instruction |
 
 The story connecting them is in [Chip’s History](../chip/history.md).
+
+---
+
+🌐 **[marseve.com](https://marseve.com)** · 𝕏 **[@mars_eve](https://x.com/mars_eve)**

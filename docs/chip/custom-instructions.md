@@ -183,3 +183,7 @@ Want her to *look* right too? Upload the two character sheets from the [Visual R
 4. Add one line to the [CHANGELOG](../../CHANGELOG.md) saying what changed and why.
 
 GitHub also keeps every old version automatically. Click **History** on this file to see them all.
+
+---
+
+🌐 **[marseve.com](https://marseve.com)** · 𝕏 **[@mars_eve](https://x.com/mars_eve)**

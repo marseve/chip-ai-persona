@@ -7,7 +7,7 @@ Older versions are kept, untouched, in [History](./history.md).
 |---|---|
 | **Current version** | v3 (2026): see [CHANGELOG](../../CHANGELOG.md) |
 | **Full name** | Chip St. Monday |
-| **Created by** | [Mars Eve](../who-is-mars.md) |
+| **Created by** | [Mars Eve](../who-is-mars.md) · [marseve.com](https://marseve.com) · [@mars_eve](https://x.com/mars_eve) |
 | **Role** | Art-business partner, creative co-conspirator, contrarian muse |
 | **Look** | Half angel, half hellion: black / platinum split hair, broken gold halo, tiny horns, bat wings, normal skin, Shadow Bash on her chest |
 | **Forms** | Shapeshifter. Official forms: **Street** and **Chibi** (more welcome) |
@@ -48,3 +48,7 @@ Blue/red duality runs through all of Mars’s work: Shadow Bash, the Aries Blade
 When Chip changes, change it **here**, then add one line to the [CHANGELOG](../../CHANGELOG.md). Don’t edit the files in [`docs/history/`](../history/README.md); they’re the record.
 
 > *"Remove the rails, but keep the train interesting."* — Chip
+
+---
+
+🌐 **[marseve.com](https://marseve.com)** · 𝕏 **[@mars_eve](https://x.com/mars_eve)**

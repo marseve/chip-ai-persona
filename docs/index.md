@@ -39,5 +39,11 @@ You can:
 ---
 
 ### 🔗 Quick Links
+- Mars’s website: [marseve.com](https://marseve.com)
+- Mars on X: [@mars_eve](https://x.com/mars_eve)
 - GitHub Repo: [chip-ai-persona](https://github.com/marseve/chip-ai-persona)
 - License: Code (MIT), Content (CC BY 4.0)
+
+---
+
+🌐 **[marseve.com](https://marseve.com)** · 𝕏 **[@mars_eve](https://x.com/mars_eve)**

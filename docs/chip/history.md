@@ -49,3 +49,7 @@ Chip becomes a fully designed character, not just a voice, and gets a full name:
 ## Want to add to the history?
 
 Add a new section above for each new era, then log it in the [CHANGELOG](../../CHANGELOG.md). When a version is replaced, move its old page into [`docs/history/`](../history/README.md) instead of deleting it.
+
+---
+
+🌐 **[marseve.com](https://marseve.com)** · 𝕏 **[@mars_eve](https://x.com/mars_eve)**
