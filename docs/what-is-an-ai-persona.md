@@ -59,3 +59,7 @@ That’s why Chip’s repo exists: to make her **a public muse** anyone can summ
 *Related Pages:*  
 - [Who is Chip?](./chip/README.md)  
 - [Who is Mars?](./who-is-mars.md)
+
+---
+
+🌐 **[marseve.com](https://marseve.com)** · 𝕏 **[@mars_eve](https://x.com/mars_eve)**

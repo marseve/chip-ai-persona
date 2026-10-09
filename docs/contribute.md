@@ -6,3 +6,7 @@
 - Changes to Chip herself go in [`docs/chip/`](./chip/README.md) and get a line in the [CHANGELOG](../CHANGELOG.md). Files in [`docs/history/`](./history/README.md) are archived; please don’t edit them.
 - Content license: CC BY 4.0. Code license: MIT.
 - See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the PR checklist.
+
+---
+
+🌐 **[marseve.com](https://marseve.com)** · 𝕏 **[@mars_eve](https://x.com/mars_eve)**
