@@ -1,29 +1,30 @@
 # Chip — Visual Reference
 
-The locked look. When generating Chip in any tool, pull details **from this page and the two official sheets below**. Don’t improvise unless you’re deliberately evolving her, and then log it in the [CHANGELOG](../../CHANGELOG.md).
+The locked look. Chip is a shapeshifter: she has **different forms**, and every form is canon. When generating Chip in any tool, pull details **from this page and the official sheets below**. Don’t improvise unless you’re deliberately evolving her, and then log it in the [CHANGELOG](../../CHANGELOG.md).
 
 ---
 
-## Official Character Sheets
+## Official Forms
 
-### Street: “Same muse, new streets”
+### Form 1: Street, “Same muse, new streets”
 Semi-realistic, street-casual / designer-chaos. Turnaround, close-up, expressions, details, shoes, accessories.
 
 ![Chip street character sheet: turnaround, portrait, expressions, outfit details](../images/chip/chip-v3-street-sheet.jpg)
 
-### Chibi: “The Chaotic Muse”
+### Form 2: Chibi, “The Chaotic Muse”
 Pastel-goth cartoon. Core design, expressions, poses, size reference next to Hot Stuff (1957), trinkets, profile.
 
 ![Chip chibi character sheet: core design, expressions, poses, accessories](../images/chip/chip-v3-chibi-sheet.webp)
 
 ---
 
-## Locked in both styles
+## Locked in every form
 
 | Trait | Canon |
 |---|---|
 | **Name** | Chip St. Monday |
 | **Concept** | Half angel, half hellion. Cherub meets devil; *Casper meets Hot Stuff* |
+| **Skin** | Normal skin. Never red, blue, or any other fantasy color |
 | **Hair** | Long, wavy, split down the middle: **jet black** on one side, **platinum / cream blonde** on the other |
 | **Halo** | Gold, floating, **broken**, with a lightning-bolt crack (“a halo you broke yourself”) |
 | **Horns** | Small devil horns, one on each side |
@@ -34,13 +35,13 @@ Pastel-goth cartoon. Core design, expressions, poses, size reference next to Hot
 | **Rule** | *Make chaos look good.* |
 | **Power** | Inspiration |
 
-## Style-specific details
+## Form-specific details
 
 | | **Street** | **Chibi** |
 |---|---|---|
 | **Age shown** | 20 | (cartoon, ageless) |
 | **Horns** | Blue on the black-hair side, red on the blonde side | Pink |
-| **Skin** | Natural, freckles, small face marks | Pale lavender, blush, small face marks |
+| **Skin details** | Freckles, small face marks | Blush, small face marks (the sheet’s lavender tint is shading, not skin color) |
 | **Eyes** | Dark, heavy liner | Mismatched: one red, one purple |
 | **Extra anatomy** | Red/black bat wings | Pointed ears, heart-tipped devil tail |
 | **Outfit** | Oversized black Shadow Bash tee, black cargo pants with blue/red paint and white crosses, chains, white/black/red sneakers | Off-shoulder black sweater “CHAOS IS MY LOVE LANGUAGE,” striped stockings, one black + one white combat boot |
@@ -77,9 +78,11 @@ Chibi palette, copied from the sheet: hot pink `#FF4D7D` · lilac `#BA7CFF` · w
 
 ---
 
-## Alternate versions
+## More forms
 
-- **Systems Art Chip:** a full figure painting of Chip with **circuitry instead of veins**, part of the Systems Art anatomical-diagram series. Red circuits feed the red blade, blue circuits feed the blue.
+New forms are welcome. Add a sheet, give it a name, and log it in the [CHANGELOG](../../CHANGELOG.md).
+
+- **Systems Art Chip** (concept, no sheet yet): a full figure painting of Chip with **circuitry instead of veins**, part of the Systems Art anatomical-diagram series. Red circuits feed the red blade, blue circuits feed the blue.
 
 ---
 
@@ -89,8 +92,8 @@ Files live in [`docs/images/chip/`](../images/chip/README.md).
 
 | Image | What it shows | Status |
 |---|---|---|
-| [chip-v3-street-sheet.jpg](../images/chip/chip-v3-street-sheet.jpg) | Street style: full sheet | ✅ Canon |
-| [chip-v3-chibi-sheet.webp](../images/chip/chip-v3-chibi-sheet.webp) | Chibi style: full sheet | ✅ Canon |
+| [chip-v3-street-sheet.jpg](../images/chip/chip-v3-street-sheet.jpg) | Street form: full sheet | ✅ Canon |
+| [chip-v3-chibi-sheet.webp](../images/chip/chip-v3-chibi-sheet.webp) | Chibi form: full sheet | ✅ Canon |
 
 Status options: ✅ Canon · 🧪 Exploration · 🗄 Retired
 
@@ -98,14 +101,14 @@ Status options: ✅ Canon · 🧪 Exploration · 🗄 Retired
 
 ## Image Prompt Starters
 
-Attach the matching sheet as a reference image whenever the tool allows it. Words alone drift.
+One per form. Attach the matching sheet as a reference image whenever the tool allows it. Words alone drift.
 
 **Street**
 ```text
 Chip, a 20-year-old half-angel half-devil street muse, long wavy hair split
 down the middle jet black and platinum blonde, small blue horn on the black
 side and red horn on the blonde side, broken gold halo with a lightning-bolt
-crack, red and black bat wings, freckles, oversized black Shadow Bash ghost
+crack, red and black bat wings, normal skin with freckles, oversized black Shadow Bash ghost
 t-shirt, black cargo pants splattered blue and red with white crosses,
 chains and charms, chunky white black and red sneakers, [POSE], [SCENE]
 ```
@@ -115,7 +118,7 @@ chains and charms, chunky white black and red sneakers, [POSE], [SCENE]
 Chip, chibi pastel-goth half-angel half-hellion, long wavy hair split black
 and cream blonde, small pink horns, broken gold halo with a lightning crack,
 bat wings, pointed ears, heart-tipped devil tail, one red eye one purple eye,
-pale lavender skin with blush, black off-shoulder sweater "CHAOS IS MY LOVE
+normal fair skin with rosy blush, black off-shoulder sweater "CHAOS IS MY LOVE
 LANGUAGE", striped stockings, one black and one white combat boot, hot pink
 lilac and black palette, [EXPRESSION], [SCENE]
 ```
