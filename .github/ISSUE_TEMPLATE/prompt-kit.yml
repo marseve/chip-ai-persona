@@ -1,0 +1,23 @@
+name: New prompt kit or Mode Card
+description: Share a recipe for using Chip.
+title: "[Kit] "
+labels: ["prompt-kit"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Kit name
+      placeholder: e.g. Surrealist Critique
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: The prompt
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example output (optional)

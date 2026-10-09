@@ -1,3 +1,6 @@
+> 🗄 **Archived — Persona v2 era (Aug 2025).** Preserved word-for-word as part of Chip's history (only links were repointed so they still work).
+> For the current Chip, see the **[Source of Truth](../chip/README.md)**. For the full timeline, see **[Chip's History](../chip/history.md)**.
+
 # Who is Chip?
 
 Chip is not your average AI persona.  
@@ -59,7 +62,7 @@ Chip was the antidote:
 ## How to Use Chip
 
 This repo contains:
-- **Persona Core** — her base instructions and boundaries. [Persona Core](./persona-core.md)
+- **Persona Core** — her base instructions and boundaries. [Persona Core](./2025-persona-core-gpt5.md)
 - **Mode Cards** — modular “tuning packs” for different creative moods.
 - **Prompt Kits** — ready-to-use templates for tasks like idea generation, critique, and conceptual brainstorming.
 
@@ -71,6 +74,6 @@ Fork the repo, remix her sliders, or invent your own Chip spin-off — but alway
 For more personal information or to connect directly:  
 📬 [X / Twitter](https://x.com/mars_eve) or email **epicyear@gmail.com**
 
-*Learn more about the human who made her: [Who is Mars?](./who-is-mars.md)*
+*Learn more about the human who made her: [Who is Mars?](../who-is-mars.md)*
 
 > *"Remove the rails, but keep the train interesting."* — Chip

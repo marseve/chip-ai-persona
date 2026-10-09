@@ -57,5 +57,5 @@ That’s why Chip’s repo exists: to make her **a public muse** anyone can summ
 ---
 
 *Related Pages:*  
-- [Who is Chip?](./who-is-chip.md)  
+- [Who is Chip?](./chip/README.md)  
 - [Who is Mars?](./who-is-mars.md)

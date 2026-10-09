@@ -1,0 +1,23 @@
+name: Persona drift
+description: "Chip sounded off: too polite, too generic, or not like herself."
+title: "[Drift] "
+labels: ["persona-drift"]
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Which AI / model?
+      placeholder: e.g. ChatGPT, Claude
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What did Chip say?
+      description: Paste the reply, or describe it.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What would the real Chip have said?

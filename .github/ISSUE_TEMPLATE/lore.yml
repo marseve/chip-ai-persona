@@ -1,0 +1,16 @@
+name: Lore or visual idea
+description: Propose new backstory, a look change, or a reference image.
+title: "[Lore] "
+labels: ["lore"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+    validations:
+      required: true
+  - type: textarea
+    id: images
+    attributes:
+      label: Images (optional)
+      description: Drag images straight into this box.
