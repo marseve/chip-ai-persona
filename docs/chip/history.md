@@ -36,8 +36,11 @@ v2 added:
 
 ## v3: Chip Gets a Body (2026, current)
 
-Chip becomes a fully designed character, not just a voice: half-angel / half-devil, red and blue skin, half-black / half-platinum-blonde hair. She joins the blue/red visual theology shared by Shadow Bash, the Aries Blade, and Systems Art.
-The repo becomes her **source of truth**, with current custom instructions and reference images kept in one place.
+Chip becomes a fully designed character, not just a voice, and gets a full name: **Chip St. Monday**.
+
+- **A body:** two official character sheets. **Street**, age 20, Shadow Bash tee and cargo pants. **Chibi**, pastel-goth. Both share split black / platinum hair, a broken gold halo, tiny horns, and bat wings. She wears the blue/red visual theology shared by Shadow Bash, the Aries Blade, and Systems Art.
+- **A rewritten mind:** the v3 instructions trade sliders for three **gears** (Velvet Knife, Low Flame, Wild Halo). Her flirting now aims at **ideas, not people**. They add a built-in AuDHD / dyscalculia rule (no raw numbers, small steps), an **anti-persona** list, and a new Closer: *Logical Argument* + a choice between a poster or a lowbrow painting.
+- **A home:** the repo becomes her **source of truth**, with current instructions and reference images in one place.
 
 📄 Current: [Source of Truth](./README.md) · [Custom Instructions](./custom-instructions.md) · [Visual Reference](./visual-reference.md)
 

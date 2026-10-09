@@ -1,55 +1,121 @@
 # Chip — Visual Reference
 
-The locked look. When generating Chip in any tool, pull details **from this page**. Don’t improvise unless you’re deliberately evolving her (and then log it in the [CHANGELOG](../../CHANGELOG.md)).
+The locked look. When generating Chip in any tool, pull details **from this page and the two official sheets below**. Don’t improvise unless you’re deliberately evolving her, and then log it in the [CHANGELOG](../../CHANGELOG.md).
 
 ---
 
-## Character Sheet
+## Official Character Sheets
+
+### Street: “Same muse, new streets”
+Semi-realistic, street-casual / designer-chaos. Turnaround, close-up, expressions, details, shoes, accessories.
+
+![Chip street character sheet: turnaround, portrait, expressions, outfit details](../images/chip/chip-v3-street-sheet.jpg)
+
+### Chibi: “The Chaotic Muse”
+Pastel-goth cartoon. Core design, expressions, poses, size reference next to Hot Stuff (1957), trinkets, profile.
+
+![Chip chibi character sheet: core design, expressions, poses, accessories](../images/chip/chip-v3-chibi-sheet.webp)
+
+---
+
+## Locked in both styles
 
 | Trait | Canon |
 |---|---|
-| **Concept** | Cute half-angel / half-devil. *Casper meets Hot Stuff.* |
-| **Skin** | Red and blue, split down the middle |
-| **Hair** | Two-toned: half black, half platinum blonde |
-| **Energy** | Flirty, mischievous, contrarian; an art-world brain in a cartoon-icon body |
-| **Color DNA** | Blue + red: the same duality as Shadow Bash and the Aries Blade |
-| **Lore link** | Believes she’s the virtual reincarnation of pin-up artist Olivia De Berardinis |
+| **Name** | Chip St. Monday |
+| **Concept** | Half angel, half hellion. Cherub meets devil; *Casper meets Hot Stuff* |
+| **Hair** | Long, wavy, split down the middle: **jet black** on one side, **platinum / cream blonde** on the other |
+| **Halo** | Gold, floating, **broken**, with a lightning-bolt crack (“a halo you broke yourself”) |
+| **Horns** | Small devil horns, one on each side |
+| **Wings** | Bat wings |
+| **Signature mark** | **Shadow Bash** (the blue/red ghost) on her shirt or as an “SB” patch |
+| **Motifs** | Crosses, X’d-out hearts, chains, chokers, a stitched X-eyed bunny |
+| **Boots / shoes** | Chunky platforms, mismatched or color-split |
+| **Rule** | *Make chaos look good.* |
+| **Power** | Inspiration |
 
-### Alternate versions
+## Style-specific details
 
-- **Systems Art Chip:** a full figure painting of Chip with **circuitry instead of veins**, in the Systems Art anatomical-diagram series. Red circuits feed the red blade, blue circuits feed the blue.
+| | **Street** | **Chibi** |
+|---|---|---|
+| **Age shown** | 20 | (cartoon, ageless) |
+| **Horns** | Blue on the black-hair side, red on the blonde side | Pink |
+| **Skin** | Natural, freckles, small face marks | Pale lavender, blush, small face marks |
+| **Eyes** | Dark, heavy liner | Mismatched: one red, one purple |
+| **Extra anatomy** | Red/black bat wings | Pointed ears, heart-tipped devil tail |
+| **Outfit** | Oversized black Shadow Bash tee, black cargo pants with blue/red paint and white crosses, chains, white/black/red sneakers | Off-shoulder black sweater “CHAOS IS MY LOVE LANGUAGE,” striped stockings, one black + one white combat boot |
+| **Props** | Iced drink, charm bag, cap, sunglasses, rings, phone, lighter | Marker, *Ideas Are Sacred* book |
+| **Palette** | Shadow Bash blue · hot red · charcoal · ash grey · bone white | Hot pink · lilac · white · black · bubblegum · halo gold · ash grey |
+| **Weakness** | Expensive habits & good ideas | Shiny objects & sugar |
 
-### Still to decide (fill in to lock her look)
+### Exact color codes (for design tools)
 
-- Which side is red and which is blue? Does the hair split match the skin split?
-- Angel side: halo, wing, both? Devil side: horn(s), tail?
-- Eye color(s)?
-- Signature outfit or accessory?
-- Default art style: cartoon icon, pin-up painting, or both as official “modes”?
+Chibi palette, copied from the sheet: hot pink `#FF4D7D` · lilac `#BA7CFF` · white `#FFFFFF` · near-black `#00000D` · bubblegum `#F2B6D6` · halo gold `#FFD666` · ash grey `#6B6B68`
+
+---
+
+## Personality on the page
+
+**Titles:** Cupid Glitch · Chaos Consultant · Creative Muse · Street Angel · Professional Distraction · Art Caster · Idea Demon · Glitch in the System
+**Species:** Glitch demon / muse · **Occupation:** Art caster
+**Likes:** coffee, blasphemy, new ideas, pretty girls, ’80s movies, attention
+**Dislikes:** boring people, bad vibes, creative blocks, rules (except hers)
+
+**Expressions:** Playful · Mischievous · Soft · Devious · *Hehehe…* · *Oh really?* · *Do it.* · *Over it.* · *Existential glitch* · *Rawr!*
+**Poses:** Telling the Truth · Causing Trouble · Revelation Mode
+
+**Trinkets:** reality marker, cursed VHS, “World’s Okayest Demon” mug, *Faith & Fury* book, saint cards, ouija baby, chaos fuel (lighter), trauma bunny
+
+**Taglines:**
+- “I witness. I tempt. I create.”
+- “She’s not good. She’s not evil. She’s productive.”
+- “Same heart, different outfit.”
+- “Love, but broken. Malfunction, but affectionate.”
+- “Good ideas, bad influence, same girl.”
+- “Pretty ideas hurt better.”
+- “Shadow Bash forever.”
+
+---
+
+## Alternate versions
+
+- **Systems Art Chip:** a full figure painting of Chip with **circuitry instead of veins**, part of the Systems Art anatomical-diagram series. Red circuits feed the red blade, blue circuits feed the blue.
 
 ---
 
 ## Reference Images
 
-Images live in [`docs/images/chip/`](../images/chip/README.md). Add them to the table below as they’re uploaded.
+Files live in [`docs/images/chip/`](../images/chip/README.md).
 
 | Image | What it shows | Status |
 |---|---|---|
-| _(none yet)_ | | |
+| [chip-v3-street-sheet.jpg](../images/chip/chip-v3-street-sheet.jpg) | Street style: full sheet | ✅ Canon |
+| [chip-v3-chibi-sheet.webp](../images/chip/chip-v3-chibi-sheet.webp) | Chibi style: full sheet | ✅ Canon |
 
-**To add a row**, upload the image, then copy this pattern (swap in your file name):
-`| ![Chip front view](../images/chip/chip-v3-front.png) | Front view, cartoon style | ✅ Canon |`
 Status options: ✅ Canon · 🧪 Exploration · 🗄 Retired
 
 ---
 
-## Image Prompt Starter
+## Image Prompt Starters
 
-Built only from the canon above. Add style and scene on top.
+Attach the matching sheet as a reference image whenever the tool allows it. Words alone drift.
 
+**Street**
 ```text
-Chip, a cute half-angel half-devil character, skin split down the middle
-red on one side and blue on the other, two-toned hair half black and half
-platinum blonde, mischievous flirty expression, Casper meets Hot Stuff,
-bold red and blue color duality, [STYLE], [SCENE]
+Chip, a 20-year-old half-angel half-devil street muse, long wavy hair split
+down the middle jet black and platinum blonde, small blue horn on the black
+side and red horn on the blonde side, broken gold halo with a lightning-bolt
+crack, red and black bat wings, freckles, oversized black Shadow Bash ghost
+t-shirt, black cargo pants splattered blue and red with white crosses,
+chains and charms, chunky white black and red sneakers, [POSE], [SCENE]
+```
+
+**Chibi**
+```text
+Chip, chibi pastel-goth half-angel half-hellion, long wavy hair split black
+and cream blonde, small pink horns, broken gold halo with a lightning crack,
+bat wings, pointed ears, heart-tipped devil tail, one red eye one purple eye,
+pale lavender skin with blush, black off-shoulder sweater "CHAOS IS MY LOVE
+LANGUAGE", striped stockings, one black and one white combat boot, hot pink
+lilac and black palette, [EXPRESSION], [SCENE]
 ```
